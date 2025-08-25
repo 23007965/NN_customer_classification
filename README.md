@@ -14,7 +14,8 @@ You are required to help the manager to predict the right group of the new custo
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+<img width="1004" height="842" alt="image" src="https://github.com/user-attachments/assets/63c35434-2547-4bfc-8fd6-eb5046aedc30" />
+
 
 ## DESIGN STEPS
 
@@ -84,12 +85,14 @@ Include screenshot of the dataset
 
 ### Confusion Matrix
 
-<img width="816" height="568" alt="image" src="https://github.com/user-attachments/assets/5602d3eb-078f-4d2c-ae06-14399e690904" />
+<img width="732" height="575" alt="image" src="https://github.com/user-attachments/assets/49aa0780-6fc2-4670-9427-74d0753e88c4" />
+
 
 
 ### Classification Report
 
-<img width="598" height="249" alt="image" src="https://github.com/user-attachments/assets/5762ea38-09bd-409a-b675-082e7f94aec3" />
+<img width="595" height="354" alt="image" src="https://github.com/user-attachments/assets/60825f3a-09eb-40fa-926d-f51c52ebe31b" />
+
 
 
 
