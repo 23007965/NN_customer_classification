@@ -84,11 +84,13 @@ Include screenshot of the dataset
 
 ### Confusion Matrix
 
-Include confusion matrix here
+<img width="816" height="568" alt="image" src="https://github.com/user-attachments/assets/5602d3eb-078f-4d2c-ae06-14399e690904" />
+
 
 ### Classification Report
 
-Include Classification Report here
+<img width="598" height="249" alt="image" src="https://github.com/user-attachments/assets/5762ea38-09bd-409a-b675-082e7f94aec3" />
+
 
 
 ### New Sample Data Prediction
