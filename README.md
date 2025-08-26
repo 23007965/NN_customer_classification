@@ -77,7 +77,8 @@ def train_model(model, train_loader, criterion, optimizer, epochs):
 
 ## Dataset Information
 
-Include screenshot of the dataset
+<img width="1286" height="245" alt="image" src="https://github.com/user-attachments/assets/5a609845-a649-4689-894d-34555153f7dd" />
+
 
 ## OUTPUT
 
@@ -98,7 +99,8 @@ Include screenshot of the dataset
 
 ### New Sample Data Prediction
 
-Include your sample input and output here
+<img width="565" height="94" alt="image" src="https://github.com/user-attachments/assets/485781e3-7951-4f16-95ba-1ac040948927" />
+
 
 ## RESULT
 Include your result here
