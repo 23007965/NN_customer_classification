@@ -19,13 +19,29 @@ You are required to help the manager to predict the right group of the new custo
 
 ## DESIGN STEPS
 
-### STEP 1:
-Write your own steps
+## STEP 1:
+Import necessary libraries and load the dataset.
 
-### STEP 2:
+## STEP 2:
+Encode categorical variables and normalize numerical features.
 
-### STEP 3:
+## STEP 3:
+Split the dataset into training and testing subsets.
 
+## STEP 4:
+Design a multi-layer neural network with appropriate activation functions.
+
+## STEP 5:
+Train the model using an optimizer and loss function.
+
+## STEP 6:
+Evaluate the model and generate a confusion matrix.
+
+## STEP 7:
+Use the trained model to classify new data samples.
+
+## STEP 8:
+Display the confusion matrix, classification report, and predictions.
 
 ## PROGRAM
 
@@ -103,4 +119,4 @@ def train_model(model, train_loader, criterion, optimizer, epochs):
 
 
 ## RESULT
-Include your result here
+Thus, a neural network classification model for the given dataset as been created successfully.
